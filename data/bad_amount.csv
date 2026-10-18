@@ -1,0 +1,4 @@
+txn_ref,value_date,currency,amount
+TXN-1001,2026-10-15,USD,100.00
+TXN-1002,2026-10-15,USD,N/A
+TXN-1003,2026-10-15,EUR,75.50
